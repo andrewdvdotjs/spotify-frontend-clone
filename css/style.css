@@ -12,8 +12,7 @@ html, body, #home{
 }
 
 body{
-  background: url(/assets/img/capa.png),
-  url(/assets/img/ruido.png),
+  background: url(https://raw.githubusercontent.com/andrewdvdotjs/spotify-frontend-clone/main/assets/img/capa.png),
   linear-gradient(50deg, #ff4169, #7c26f8);
   background-attachment: fixed;
   font-family: Arial, Helvetica, sans-serif;
